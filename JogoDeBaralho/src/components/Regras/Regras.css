@@ -1,0 +1,13 @@
+#regras {
+    background-color: #215B0F;
+    align-items: start;
+    padding: 10px;
+    height: 40%;
+  }
+#regras{
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    justify-content: center;
+  }
